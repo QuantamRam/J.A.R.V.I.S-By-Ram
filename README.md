@@ -1,4 +1,4 @@
-# JARVIS - AI Voice Assistant
+# JARVIS By Ram - AI Voice Assistant
 
 <div align="center">
   <img src="jarvis1.jpg" alt="JARVIS AI Assistant" width="400"/>
